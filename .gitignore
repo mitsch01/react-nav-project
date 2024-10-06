@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# large files
+*.mov
+*.mp4
+*.webm
+*.mkv
+*.avi
+*.flv
+*.wmv
+*.mpg
+*.mpeg
+*.m4v
